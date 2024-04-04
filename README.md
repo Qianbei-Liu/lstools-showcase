@@ -88,7 +88,8 @@ maintained by Fereshte Mozafari
 
 [LSOracle](https://github.com/LNIS-Projects/LSOracle) (*University of Utah, UT, USA*)
 
-[fiction](https://github.com/marcelwa/fiction) (Marcel Walter, *Universität Bremen, Germany*)
+[fiction](https://github.com/cda-tum/fiction) (part of the [*Munich Nanotech
+Toolkit* (MNT)](https://www.cda.cit.tum.de/research/nanotech/mnt/), *Technical University of Munich, Germany*)
 
 [ropper](https://gitlab.com/formigoni/ropper) (Ruan Formigoni, *Federal University of Viçosa, Brazil*)
 
